@@ -1,0 +1,8 @@
+Django
+djangorestframework
+Flask
+boto3
+PyJWT
+aws-cdk-lib
+constructs
+python-dotenv
